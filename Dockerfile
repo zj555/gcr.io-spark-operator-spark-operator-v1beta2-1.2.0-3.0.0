@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/coredns/coredns:v1.8.0
+FROM gcr.io/spark-operator/spark:v3.0.0-gcs-prometheus
